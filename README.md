@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakash-pandit
 - 👀 I’m interested in Data Engineering Project
-- 🌱 I’m currently learning DSA
+- 🌱 I’m learning DSA
 - 💞️ I’m looking to collaborate on data engineering project
 - 📫 How to reach me - www.linkedin.com/in/prakash-pandit-jain
 
